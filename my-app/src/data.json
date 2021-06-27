@@ -1,0 +1,198 @@
+{
+    "source": "https://www.mygov.in/corona-data/covid19-statewise-status",
+    "state_data": [
+      {
+        "Confirmed": "432",
+        "Cured": "11",
+        "Death": "7 ",
+        "State": "AndhraPradesh"
+      },
+      {
+        "Confirmed": "11",
+        "Cured": "10",
+        "Death": "0 ",
+        "State": "AndamanNicobar"
+      },
+      {
+        "Confirmed": "65",
+        "Cured": "26",
+        "Death": "1 ",
+        "State": "Bihar"
+      },
+      {
+        "Confirmed": "21",
+        "Cured": "7",
+        "Death": "0 ",
+        "State": "Chandigarh"
+      },
+      {
+        "Confirmed": "31",
+        "Cured": "10",
+        "Death": "0 ",
+        "State": "Chhattisgarh"
+      },
+      {
+        "Confirmed": "1510",
+        "Cured": "30",
+        "Death": "28 ",
+        "State": "Delhi"
+      },
+      {
+        "Confirmed": "7",
+        "Cured": "5",
+        "Death": "0 ",
+        "State": "Goa"
+      },
+      {
+        "Confirmed": "539",
+        "Cured": "54",
+        "Death": "26 ",
+        "State": "Gujarat"
+      },
+      {
+        "Confirmed": "185",
+        "Cured": "29",
+        "Death": "3 ",
+        "State": "Haryana"
+      },
+      {
+        "Confirmed": "32",
+        "Cured": "13",
+        "Death": "1 ",
+        "State": "HimachalPradesh"
+      },
+      {
+        "Confirmed": "270",
+        "Cured": "16",
+        "Death": "4 ",
+        "State": "J & K"
+      },
+      {
+        "Confirmed": "247",
+        "Cured": "59",
+        "Death": "6 ",
+        "State": "Karnataka"
+      },
+      {
+        "Confirmed": "379",
+        "Cured": "198",
+        "Death": "3 ",
+        "State": "Kerala"
+      },
+      {
+        "Confirmed": "15",
+        "Cured": "10",
+        "Death": "0 ",
+        "State": "Ladakh"
+      },
+      {
+        "Confirmed": "604",
+        "Cured": "44",
+        "Death": "43 ",
+        "State": "MP"
+      },
+      {
+        "Confirmed": "1985",
+        "Cured": "217",
+        "Death": "149 ",
+        "State": "Maharashtra"
+      },
+      {
+        "Confirmed": "2",
+        "Cured": "1",
+        "Death": "0 ",
+        "State": "Manipur"
+      },
+      {
+        "Confirmed": "1",
+        "Cured": "0",
+        "Death": "0 ",
+        "State": "Mizoram"
+      },
+      {
+        "Confirmed": "54",
+        "Cured": "12",
+        "Death": "1 ",
+        "State": "Odisha"
+      },
+      {
+        "Confirmed": "7",
+        "Cured": "1",
+        "Death": "0 ",
+        "State": "Puducherry"
+      },
+      {
+        "Confirmed": "167",
+        "Cured": "14",
+        "Death": "11 ",
+        "State": "Punjab"
+      },
+      {
+        "Confirmed": "873",
+        "Cured": "21",
+        "Death": "3 ",
+        "State": "Rajasthan"
+      },
+      {
+        "Confirmed": "1173",
+        "Cured": "58",
+        "Death": "11 ",
+        "State": "TamilNadu"
+      },
+      {
+        "Confirmed": "562",
+        "Cured": "100",
+        "Death": "16 ",
+        "State": "Telengana"
+      },
+      {
+        "Confirmed": "35",
+        "Cured": "5",
+        "Death": "0 ",
+        "State": "Uttarakhand"
+      },
+      {
+        "Confirmed": "558",
+        "Cured": "49",
+        "Death": "5 ",
+        "State": "UttarPradesh"
+      },
+      {
+        "Confirmed": "190",
+        "Cured": "36",
+        "Death": "7 ",
+        "State": "West Bengal"
+      },
+      {
+        "Confirmed": "31",
+        "Cured": "0",
+        "Death": "1 ",
+        "State": "Assam"
+      },
+      {
+        "Confirmed": "24",
+        "Cured": "0",
+        "Death": "2 ",
+        "State": "Jharkhand"
+      },
+      {
+        "Confirmed": "1",
+        "Cured": "0",
+        "Death": "0 ",
+        "State": "Arunachal Pradesh"
+      },
+      {
+        "Confirmed": "2",
+        "Cured": "0",
+        "Death": "0 ",
+        "State": "Tripura"
+      },
+      {
+        "Confirmed": "1",
+        "Cured": "0",
+        "Death": "0 ",
+        "State": "Nagaland"
+      }
+    ]
+  }
+
